@@ -86,7 +86,7 @@ mlops_labs
 
 You can interact with endpoints directly from the docs by clicking **Try it out**.
 
-![API response](assets/api_response.png)
+![API response](assets/api_request.png)
 
 > You can also test endpoints using [Postman](https://www.postman.com/) or `curl`.
 
